@@ -9,9 +9,7 @@ The core of this chatbot relies on regular expressions and a state management sy
 ## 📸 Application Demo
 
 ![Screenshot of Intellibot](./Chatbot.png)
-*(**Important:** Please replace this with a real screenshot of your running application!)*
 
----
 
 ## 🚀 Key Features
 
